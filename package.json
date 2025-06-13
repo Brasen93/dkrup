@@ -1,0 +1,27 @@
+{
+  "name": "projekt-dkrup",
+  "version": "1.0.0",
+  "description": "## Opis projektu To jest przykładowy projekt stworzony w celu nauki systemu kontroli wersji Git oraz pracy z repozytorium na GitHub.   Projekt zawiera stronę startową oraz dokumentację w pliku README.md.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brasen93/dkrup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brasen93/dkrup/issues"
+  },
+  "homepage": "https://github.com/Brasen93/dkrup#readme",
+  "devDependencies": {
+    "jest": "^30.0.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
